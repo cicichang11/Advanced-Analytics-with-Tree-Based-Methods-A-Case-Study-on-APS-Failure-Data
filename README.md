@@ -11,7 +11,9 @@ This notebook, titled "Advanced Analytics with Tree-Based Methods: A Case Study 
 5. <strong>Coefficient of Variation Analysis:</strong> Calculation and analysis of feature variability.
 6. <strong>Correlation Matrix Visualization:</strong> Techniques for creating and interpreting correlation matrices for feature analysis.
 7. <strong>Feature Visualization:</strong> Generation of scatter and box plots for key features, assessing their significance.
-   ![box plots for selected features](readme_images/selected_feature_boxplot.png "box plots for selected features")
+
+   <img src="readme_images/selected_feature_boxplot.png" alt="Box Plots for Selected Features" width="600"/>
+
 8. <strong>Class Imbalance Analysis:</strong> Examination of the dataset's balance, highlighting the importance of addressing class imbalance.
 9. <strong>Random Forest Training:</strong> Methodology for training and evaluating a Random Forest model, including performance metrics.
     - Training Accuracy Score is: 0.992
